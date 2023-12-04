@@ -1,4 +1,4 @@
-# nope1
+# MORPHINE
 Wicki–Hayden midi keyboard powered by RP2040.<br>
 ![](media/v1top.jpg)
 Current QMK Vial firmware is very basic (LEDs are not working)<br>
